@@ -1,8 +1,7 @@
 - 👋 Hi
-- 👀 I usually program
+- ⚡ Studing
 - 🌱 C | Python | Html
 - 📫 How to reach me ...
-- ⚡ Studing
 
 <!---
 jfcr25/jfcr25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
