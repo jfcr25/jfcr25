@@ -1,5 +1,5 @@
 - 👋 Hi
-- ⚡ Studing
+- ⚡ Studying
 - 🌱 C | Python | Html
 - 📫 How to reach me ...
 
