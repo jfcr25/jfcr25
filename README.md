@@ -29,8 +29,9 @@ You can click the Preview link to take a look at your changes.
   ##
  
 <div> 
-
+<br><img src="https://tryhackme-badges.s3.amazonaws.com/Cod3r.png" alt="Your Image Badge" /><br>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
   
 </div>
